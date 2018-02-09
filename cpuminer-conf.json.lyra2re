@@ -2,7 +2,7 @@
 	"api-bind" : "127.0.0.1:4048",
 
 	"url" : "stratum+tcp://lyra2re.eu.nicehash.com:3342",
-        "user" : "1GiEJQ9uvW61ujj9ueYP82eZLUFoAQDexg",
+        "user" : "3AcUC5UfB3XwHcAd1c4nfDGW6MwTKf1CUQ",
         "pass" : "x",
         "algo" : "lyra2re",
 
